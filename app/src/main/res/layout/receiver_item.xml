@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#DDD"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginRight="50dp"
+        android:background="#FFF"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/tv_chatMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="Heyy Hello..How are you? I'm Fine Dude."
+            android:textSize="20dp" />
+
+
+    </android.support.v7.widget.CardView>
+
+    <TextView
+        android:id="@+id/tv_chatTimeStamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="Time Stamp"
+        android:textColor="#777"
+        android:textSize="12dp" />
+
+</LinearLayout>

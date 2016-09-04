@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "769760952047",
+    "project_id": "chatapp09"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769760952047:android:c7bcf8c6aa4a1e8e",
+        "android_client_info": {
+          "package_name": "com.pothiwala.atirek.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgub_-qB3P3OyA9CLnGD7eRxqEZuNPQHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769760952047:android:9261a835546876b6",
+        "android_client_info": {
+          "package_name": "com.pothiwala.atirek.gcmdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgub_-qB3P3OyA9CLnGD7eRxqEZuNPQHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769760952047:android:538c259e9f2df37c",
+        "android_client_info": {
+          "package_name": "alm.com.sqlchatdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgub_-qB3P3OyA9CLnGD7eRxqEZuNPQHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
